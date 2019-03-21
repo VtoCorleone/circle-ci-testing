@@ -9,5 +9,5 @@ test('difference between numbers', () => {
 });
 
 test('multiply 2 numbers together', () => {
-  expect(multiply(2, 3)).toBe(6);
+  expect(multiply(2, 3)).toBe(5);
 });
